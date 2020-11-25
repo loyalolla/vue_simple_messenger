@@ -1,5 +1,5 @@
-##Simply messenger app 
-Stack : Nuxt, socket.io and express
+Simply messenger app 
+stack : Nuxt, socket.io and express
 
 
 
