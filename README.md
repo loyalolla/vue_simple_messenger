@@ -1,4 +1,5 @@
-simply chat Nuxt, socket.io and express
+Simply messenger app
+Stack : Nuxt, socket.io and express
 
 
 
